@@ -10,7 +10,7 @@ In this project we have tried to make a look alike clone of Myntra Website. With
 Clone the project
 
 ```bash
-  git clone https://github.com/imbickydutta/myntra_clone
+  git clone hhttps://github.com/Crusaderkr/Mynta_Clone
 ```
 
 ## Technologies we used
@@ -26,23 +26,3 @@ Along with that, in order to store user data and products data we also used Loca
 ## Libraries Used
 
 All the image and icon links have been taken from the main website ( https://www.myntra.com/ )
-
-## Team Members and Contributors :
-
-## 🔗 Links
-
-### Bicky Dutta
-- Github : https://github.com/imbickydutta
-
-### Sagar Jakkani
-- Github : https://github.com/11431853
-
-### Subham Dobhal
-- Github : https://github.com/shubhamdobhal05
-
-
-
-
-
-
-  
